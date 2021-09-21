@@ -14,3 +14,5 @@ splitting by coin at a later date.
 ### FunctionTesting
  This notebook was used to test different models and their functions, ignore this one due to lack of explanation and
  lack of direction
+ 
+ NOTE: This repo is still being worked on, changes will be made. Raw data will be shared upon request.
